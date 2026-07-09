@@ -75,7 +75,10 @@ A 4-page interactive dashboard built on the cleaned dataset:
 ```
 
 ## 📷 Dashboard Preview
-
+![Executive Summary](screenshots/1.png)
+![Product Performance](screenshots/2.png)
+![Customer Segmentation](screenshots/3.png)
+![Shipping & Demographics](screenshots/4.png)
 
 ---
 
